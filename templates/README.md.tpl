@@ -15,6 +15,12 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}}: {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
+### Latest pull requests
+
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 ## Contact
 
 For anything, feel free to contact me at:
