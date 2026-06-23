@@ -10,13 +10,11 @@ under the [@humtta-forks] organization.
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
-
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}}: {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 ### Latest pull requests
-
 {{range recentPullRequests 5}}
 - ![{{.State}}](assets/pr-{{toLower .State}}.svg) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
