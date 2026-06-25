@@ -11,19 +11,19 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 days ago)
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (5 days ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (6 days ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (today)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 day ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (6 days ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (1 week ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (1 week ago)
-- [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc): Tool for viewing and exporting docs for shell scripts (2 weeks ago)
 
 ### Latest projects
 
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems
 - [humtta/bash-utils](https://github.com/humtta/bash-utils): Collection of utility functions for Bash scripts
 - [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems
-- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn
 
 ### Latest pull requests
 
