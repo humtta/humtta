@@ -11,19 +11,19 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (today)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (1 day ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 day ago)
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 day ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 days ago)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 week ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (1 week ago)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (2 weeks ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (2 weeks ago)
 
 ### Latest projects
 
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router
 - [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems
 - [humtta/bash-utils](https://github.com/humtta/bash-utils): Collection of utility functions for Bash scripts
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems
 
 ### Latest pull requests
 
