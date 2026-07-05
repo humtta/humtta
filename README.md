@@ -11,9 +11,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (today)
-- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (3 days ago)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (4 days ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 day ago)
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (4 days ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (5 days ago)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 weeks ago)
 - [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (2 weeks ago)
 
@@ -28,7 +28,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 ### Latest pull requests
 
 - ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (3 weeks ago)
-- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 weeks ago)
+- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (4 weeks ago)
 - ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (4 weeks ago)
 
 ## Contact
