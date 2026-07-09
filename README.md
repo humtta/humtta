@@ -11,7 +11,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/reddit-app-wall-bypass](https://github.com/humtta/reddit-app-wall-bypass): Firefox extension to bypass Reddit app-wall (1 day ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (today)
 - [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 days ago)
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 days ago)
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 week ago)
@@ -19,7 +19,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest projects
 
-- [humtta/reddit-app-wall-bypass](https://github.com/humtta/reddit-app-wall-bypass): Firefox extension to bypass Reddit app-wall
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router
 - [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings
