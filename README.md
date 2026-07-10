@@ -11,11 +11,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (today)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 days ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 days ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (3 days ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (3 days ago)
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 week ago)
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 weeks ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (3 weeks ago)
 
 ### Latest projects
 
