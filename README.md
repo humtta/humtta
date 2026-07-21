@@ -12,10 +12,10 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 ### Latest contributions
 
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 day ago)
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (3 days ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (4 days ago)
+- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (4 days ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (5 days ago)
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 week ago)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (1 week ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 weeks ago)
 
 ### Latest projects
 
