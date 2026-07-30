@@ -27,9 +27,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
-- ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (1 month ago)
-- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
-- ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
+- [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (1 month ago)
+- [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
+- [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
 
 ## Contact
 
