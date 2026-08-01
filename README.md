@@ -12,10 +12,10 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 ### Latest contributions
 
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 day ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (4 days ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (5 days ago)
-- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (5 days ago)
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (6 days ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (5 days ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (6 days ago)
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (6 days ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 week ago)
 
 ### Latest projects
 
