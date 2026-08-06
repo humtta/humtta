@@ -11,7 +11,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (1 day ago)
+- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (today)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (5 days ago)
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 week ago)
 - [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (1 week ago)
