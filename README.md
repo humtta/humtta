@@ -12,11 +12,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 day ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (1 day ago)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (1 day ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 day ago)
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (1 day ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 days ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (2 days ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 days ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 days ago)
+- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (2 days ago)
 
 ### Latest projects
 
@@ -28,7 +28,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
-- [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (1 month ago)
+- [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (2 months ago)
 - [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
 - [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
 
