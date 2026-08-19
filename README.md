@@ -12,8 +12,8 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (today)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (2 days ago)
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (4 days ago)
 - [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (5 days ago)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 week ago)
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (1 week ago)
