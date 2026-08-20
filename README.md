@@ -12,30 +12,15 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)
-- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (3 days ago)
-- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (6 days ago)
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 weeks ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 weeks ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (3 days ago)- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (6 days ago)- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 weeks ago)- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 weeks ago)
 
 ### Latest projects
 
-- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website
-- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
+- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 
 ### Latest pull requests
 
-- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
-- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
-- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
-- ![Status](assets/pr-open.svg) [Add devbox global info command](https://github.com/jetify-com/devbox/pull/2959) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 days ago)
-- ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (4 days ago)
-- ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (2 months ago)
-- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
-- ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
+- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)- ![Status](assets/pr-open.svg) [Add devbox global info command](https://github.com/jetify-com/devbox/pull/2959) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 days ago)- ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (4 days ago)- ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (2 months ago)- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)- ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
 
 ## Contact
 
