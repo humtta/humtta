@@ -11,20 +11,17 @@ third-party repositories are under the [@humtta-forks] organization.
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
-
-{{- range recentContributions 5 }}
+{{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}: {{ . }}{{ end }} ({{ humanize .OccurredAt }})
 {{- end }}
 
 ### Latest projects
-
-{{- range recentRepos 5 }}
+{{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }}: {{ . }}{{ end }}
 {{- end }}
 
 ### Latest pull requests
-
-{{- range recentPullRequests 10 }}
+{{ range recentPullRequests 10 }}
 - ![Status](assets/pr-{{ toLower .State }}.svg) [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
