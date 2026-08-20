@@ -11,6 +11,7 @@ third-party repositories are under the [@humtta-forks] organization.
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
+
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (3 days ago)
 - [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (6 days ago)
@@ -18,6 +19,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 weeks ago)
 
 ### Latest projects
+
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows
 - [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website
@@ -25,6 +27,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 
 ### Latest pull requests
+
 - ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
 - ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
 - ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 days ago)
