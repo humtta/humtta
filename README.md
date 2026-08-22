@@ -12,19 +12,19 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (today)
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (3 days ago)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (5 days ago)
 - [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (1 week ago)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (2 weeks ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (2 weeks ago)
 
 ### Latest projects
 
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows
 - [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen
 
 ### Latest pull requests
 
