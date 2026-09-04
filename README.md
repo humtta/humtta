@@ -12,8 +12,8 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (today)
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (2 days ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 day ago)
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (3 days ago)
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 week ago)
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (2 weeks ago)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (2 weeks ago)
@@ -35,7 +35,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 weeks ago)
 - ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (2 months ago)
 - ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
-- ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (2 months ago)
+- ![Status](assets/pr-merged.svg) [Fix indentation in default devbox config](https://github.com/jetify-com/devbox/pull/2851) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 months ago)
 
 ## Contact
 
