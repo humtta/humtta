@@ -13,9 +13,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 ### Latest contributions
 
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (1 day ago)
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (3 days ago)
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (6 days ago)
-- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 week ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (4 days ago)
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (1 week ago)
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (2 weeks ago)
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (2 weeks ago)
 
 ### Latest projects
@@ -28,9 +28,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
-- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 weeks ago)
-- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 weeks ago)
-- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (2 weeks ago)
+- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (3 weeks ago)
+- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (3 weeks ago)
+- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (3 weeks ago)
 - ![Status](assets/pr-open.svg) [Add devbox global info command](https://github.com/jetify-com/devbox/pull/2959) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 weeks ago)
 - ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (3 weeks ago)
 - ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (3 months ago)
