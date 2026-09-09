@@ -12,7 +12,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (1 day ago)
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (today)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (1 day ago)
 - [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (5 days ago)
 - [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (2 weeks ago)
