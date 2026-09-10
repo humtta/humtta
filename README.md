@@ -12,11 +12,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (today)
-- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (1 day ago)
-- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (5 days ago)
-- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (2 weeks ago)
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (3 weeks ago)
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (1 day ago)
+- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (1 day ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)
+- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (2 days ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (6 days ago)
 
 ### Latest projects
 
