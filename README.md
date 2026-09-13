@@ -12,7 +12,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (1 day ago)
+- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (today)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (2 days ago)
 - [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (2 days ago)
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (4 days ago)
