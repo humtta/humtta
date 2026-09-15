@@ -12,8 +12,8 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
+- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (today)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (2 days ago)
-- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (2 days ago)
 - [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (4 days ago)
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (4 days ago)
 - [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (6 days ago)
