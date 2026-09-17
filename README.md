@@ -12,11 +12,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (1 day ago)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (3 days ago)
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (5 days ago)
-- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (5 days ago)
-- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (1 week ago)
+- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (1 day ago)
+- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (2 days ago)
+- [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (4 days ago)
+- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (6 days ago)
+- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows (6 days ago)
 
 ### Latest projects
 
@@ -28,9 +28,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
-- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (4 weeks ago)
-- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (4 weeks ago)
-- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (4 weeks ago)
+- ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
+- ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
+- ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
 - ![Status](assets/pr-merged.svg) [Add devbox global info command](https://github.com/jetify-com/devbox/pull/2959) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
 - ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago)
 - ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (3 months ago)
