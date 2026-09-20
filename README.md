@@ -12,11 +12,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (today)
-- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (today)
-- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (2 days ago)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments (6 days ago)
-- [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script (1 week ago)
+- [humtta/rosalind-cli](https://github.com/humtta/rosalind-cli): CLI to fetch Rosalind problems (1 day ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (1 day ago)
+- [humtta/linkedin-scroll-fix](https://github.com/humtta/linkedin-scroll-fix): Firefox extension to fix slow scrolling on LinkedIn (1 day ago)
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router (1 day ago)
+- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values (3 days ago)
 
 ### Latest projects
 
