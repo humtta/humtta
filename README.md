@@ -28,6 +28,8 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
+- ![Status](assets/pr-open.svg) [fix: Restore CI badge link](https://github.com/typstyle-rs/typstyle/pull/503) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (today)
+- ![Status](assets/pr-open.svg) [feat: Ensure single final newline](https://github.com/typstyle-rs/typstyle/pull/502) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (today)
 - ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
 - ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.4](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
 - ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
