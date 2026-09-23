@@ -12,11 +12,11 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest contributions
 
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (2 days ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (2 days ago)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (2 days ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (2 days ago)
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (3 days ago)
+- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (3 days ago)
+- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (3 days ago)
+- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (3 days ago)
+- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (3 days ago)
+- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (4 days ago)
 
 ### Latest projects
 
@@ -28,8 +28,8 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
-- ![Status](assets/pr-open.svg) [fix: Restore CI badge link](https://github.com/typstyle-rs/typstyle/pull/503) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (1 day ago)
-- ![Status](assets/pr-closed.svg) [feat: Ensure single final newline](https://github.com/typstyle-rs/typstyle/pull/502) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (1 day ago)
+- ![Status](assets/pr-open.svg) [fix: Restore CI badge link](https://github.com/typstyle-rs/typstyle/pull/503) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (2 days ago)
+- ![Status](assets/pr-closed.svg) [feat: Ensure single final newline](https://github.com/typstyle-rs/typstyle/pull/502) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (2 days ago)
 - ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
 - ![Status](assets/pr-open.svg) [Update nodejs devbox plugin to 0.0.5](https://github.com/jetify-com/docs/pull/37) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
 - ![Status](assets/pr-open.svg) [Add nushell instructions to activate devbox global](https://github.com/jetify-com/docs/pull/36) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago)
