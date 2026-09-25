@@ -11,14 +11,6 @@ also find some notes, small scripts, and code snippets in my [gists].
 
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
-### Latest contributions
-
-- [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website (5 days ago)
-- [humtta/rosalind-solutions](https://github.com/humtta/rosalind-solutions): Solutions to Rosalind problems (5 days ago)
-- [humtta/lyrics-presenter](https://github.com/humtta/lyrics-presenter): Browser extension to present song lyrics in fullscreen (5 days ago)
-- [humtta/dedent](https://github.com/humtta/dedent): Go package to dedent multiline strings (5 days ago)
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website (6 days ago)
-
 ### Latest projects
 
 - [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values
@@ -26,6 +18,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows
 - [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website
 - [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website
+- [humtta/hermes](https://github.com/humtta/hermes): Self-hosted RSS notification router
 
 ### Latest pull requests
 
