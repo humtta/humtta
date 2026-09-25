@@ -11,11 +11,6 @@ also find some notes, small scripts, and code snippets in my [gists].
 
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
-### Latest contributions
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }}: {{ . }}{{ end }} ({{ humanize .OccurredAt }})
-{{- end }}
-
 ### Latest projects
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }}: {{ . }}{{ end }}
