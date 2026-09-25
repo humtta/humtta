@@ -12,7 +12,7 @@ also find some notes, small scripts, and code snippets in my [gists].
 Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest projects
-{{ range recentRepos 5 }}
+{{ range recentRepos 6 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }}: {{ . }}{{ end }}
 {{- end }}
 
