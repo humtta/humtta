@@ -13,12 +13,12 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest projects
 {{ range recentRepos 6 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }}: {{ . }}{{ end }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }}: {{ . }}{{ end }}.
 {{- end }}
 
 ### Latest pull requests
 {{ range recentPullRequests 10 }}
-- ![Status](assets/pr-{{ toLower .State }}.svg) [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
+- ![Status](assets/pr-{{ toLower .State }}.svg) [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }}).
 {{- end }}
 
 ## Contact
