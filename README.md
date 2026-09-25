@@ -4,7 +4,8 @@ Hi, I'm a software engineer and open source enthusiast from Minas Gerais,
 Brazil.
 
 This profile contains my personal projects. Forks and contributions to
-third-party repositories are under the [@humtta-forks] organization.
+third-party repositories are under the [@humtta-forks] organization. You can
+also find some notes, small scripts, and code snippets in my [gists].
 
 ## Activity
 
@@ -47,6 +48,7 @@ For anything, feel free to contact me at:
 - **LinkedIn:** [in/humtta]
 
 [@humtta-forks]: https://github.com/humtta-forks
+[gists]: https://gist.github.com/humtta
 [readme-scribe]: https://github.com/muesli/readme-scribe
 [humtta@proton.me]: mailto:humtta@proton.me
 [in/humtta]: https://www.linkedin.com/in/humtta
