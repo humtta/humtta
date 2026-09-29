@@ -13,16 +13,16 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest projects
 
+- [humtta/dotfiles](https://github.com/humtta/dotfiles): My configuration files.
 - [humtta/skills](https://github.com/humtta/skills): My agent skills.
 - [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values.
 - [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script.
 - [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows.
 - [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website.
-- [humtta/reddit-web-unblock](https://github.com/humtta/reddit-web-unblock): Firefox extension to unblock Reddit mobile website.
 
 ### Latest pull requests
 
-- ![Status](assets/pr-open.svg) [feat: Add option to trim final newlines](https://github.com/typstyle-rs/typstyle/pull/504) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (4 days ago).
+- ![Status](assets/pr-open.svg) [feat: Add option to trim final newlines](https://github.com/typstyle-rs/typstyle/pull/504) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (5 days ago).
 - ![Status](assets/pr-open.svg) [fix: Restore CI badge link](https://github.com/typstyle-rs/typstyle/pull/503) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (1 week ago).
 - ![Status](assets/pr-closed.svg) [feat: Ensure single final newline](https://github.com/typstyle-rs/typstyle/pull/502) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (1 week ago).
 - ![Status](assets/pr-open.svg) [Remove zwsp characters from mdx files](https://github.com/jetify-com/docs/pull/38) on [jetify-com/docs](https://github.com/jetify-com/docs) (1 month ago).
