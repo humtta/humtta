@@ -15,9 +15,9 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 - [humtta/dotfiles](https://github.com/humtta/dotfiles): My configuration files.
 - [humtta/skills](https://github.com/humtta/skills): My agent skills.
-- [humtta/error-as-value](https://github.com/humtta/error-as-value): TypeScript package to handle errors as values.
+- [humtta/error-as-value](https://github.com/humtta/error-as-value): A TypeScript package to handle errors as values.
 - [humtta/fedora-setup](https://github.com/humtta/fedora-setup): My Fedora Workstation setup script.
-- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): Self-hosted scheduler for GitHub Actions workflows.
+- [humtta/workflow-scheduler](https://github.com/humtta/workflow-scheduler): A self-hosted scheduler for GitHub Actions workflows.
 - [humtta/humtta-com](https://github.com/humtta/humtta-com): My personal website.
 
 ### Latest pull requests
