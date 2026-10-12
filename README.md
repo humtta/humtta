@@ -22,6 +22,7 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 
 ### Latest pull requests
 
+- ![Status](assets/pr-open.svg) [feat: Remove border from active sidebar items](https://github.com/securo-finance/securo/pull/1163) on [securo-finance/securo](https://github.com/securo-finance/securo) (today).
 - ![Status](assets/pr-open.svg) [feat: Add option to trim final newlines](https://github.com/typstyle-rs/typstyle/pull/504) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (2 weeks ago).
 - ![Status](assets/pr-merged.svg) [fix: Restore CI badge link](https://github.com/typstyle-rs/typstyle/pull/503) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (3 weeks ago).
 - ![Status](assets/pr-closed.svg) [feat: Ensure single final newline](https://github.com/typstyle-rs/typstyle/pull/502) on [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) (3 weeks ago).
@@ -31,7 +32,6 @@ Some of my recent GitHub activity, automatically updated with [readme-scribe].
 - ![Status](assets/pr-merged.svg) [Add devbox global info command](https://github.com/jetify-com/devbox/pull/2959) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago).
 - ![Status](assets/pr-open.svg) [Update devbox global activation instructions](https://github.com/jetify-com/devbox/pull/2953) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (1 month ago).
 - ![Status](assets/pr-merged.svg) [Fix tool name in README](https://github.com/essentialkaos/shdoc/pull/218) on [essentialkaos/shdoc](https://github.com/essentialkaos/shdoc) (4 months ago).
-- ![Status](assets/pr-merged.svg) [Restore devbox logo](https://github.com/jetify-com/devbox/pull/2852) on [jetify-com/devbox](https://github.com/jetify-com/devbox) (4 months ago).
 
 ## Contact
 
